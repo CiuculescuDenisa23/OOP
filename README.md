@@ -34,6 +34,7 @@ Produs este abstract și forțează implementarea ValidareCantitate.
 Competențe Practice Demonstrate
 
 Pe lângă conceptele OOP, proiectele mele arată că știu să:
+
 Construiesc Aplicații Consolă: Toate proiectele mele sunt aplicații C# (.NET 8) funcționale, de tip consolă, cu un punct de intrare Main.
 Gestionez Colecții de Date: Folosesc List<T> în mod extensiv pentru a gestiona grupuri de obiecte (ex. List<Rezervare>, List<Produs>, List<Utilizator>).
 Creez Logică de Business: Implementez meniuri interactive (cu bucle while și switch), citesc date de la utilizator și execut logica aplicației (ex. calcularea costurilor, validarea stocurilor, rezervarea locurilor).
