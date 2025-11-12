@@ -1,6 +1,7 @@
-Am aplicat în mod constant cei patru piloni principali ai OOP:
+Am aplicat în mod constant cei patru piloni principali ai OOP-ului:
 
 1. Încapsulare
+   
 Acesta este cel mai fundamental concept pe care îl folosesc.
 Ce am făcut: Am grupat datele (câmpuri/proprietăți) împreună cu logica (metodele) care le manipulează, în interiorul unei clase.
 
