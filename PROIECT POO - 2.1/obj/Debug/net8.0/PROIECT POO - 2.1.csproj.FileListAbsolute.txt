@@ -1,0 +1,17 @@
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\bin\Debug\net8.0\PROIECT POO - 2.1.exe
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\bin\Debug\net8.0\PROIECT POO - 2.1.deps.json
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\bin\Debug\net8.0\PROIECT POO - 2.1.runtimeconfig.json
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\bin\Debug\net8.0\PROIECT POO - 2.1.dll
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\bin\Debug\net8.0\PROIECT POO - 2.1.pdb
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.csproj.AssemblyReference.cache
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.AssemblyInfoInputs.cache
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.AssemblyInfo.cs
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.csproj.CoreCompileInputs.cache
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT .9C706C39.Up2Date
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.dll
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\refint\PROIECT POO - 2.1.dll
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.pdb
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\PROIECT POO - 2.1.genruntimeconfig.cache
+D:\PROIECT POO\PROIECT POO - 2.1\PROIECT POO - 2.1\obj\Debug\net8.0\ref\PROIECT POO - 2.1.dll
