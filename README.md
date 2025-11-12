@@ -44,7 +44,7 @@ Zboruri este abstractă și forțează implementarea CalculPret.
 
 Produs este abstract și forțează implementarea ValidareCantitate.
 
-🛠️ Competențe Practice Demonstrate
+Competențe Practice Demonstrate
 Pe lângă conceptele OOP, proiectele mele arată că știu să:
 
 Construiesc Aplicații Consolă: Toate proiectele mele sunt aplicații C# (.NET 8) funcționale, de tip consolă, cu un punct de intrare Main.
