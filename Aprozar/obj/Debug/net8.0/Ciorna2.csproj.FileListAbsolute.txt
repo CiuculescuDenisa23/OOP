@@ -1,0 +1,14 @@
+D:\C#\Ciorna2\obj\Debug\net8.0\Ciorna2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Ciorna2\obj\Debug\net8.0\Ciorna2.AssemblyInfoInputs.cache
+D:\C#\Ciorna2\obj\Debug\net8.0\Ciorna2.AssemblyInfo.cs
+D:\C#\Ciorna2\obj\Debug\net8.0\Ciorna2.csproj.CoreCompileInputs.cache
+D:\C#\Ciorna2\bin\Debug\net8.0\Ciorna2.exe
+D:\C#\Ciorna2\bin\Debug\net8.0\Ciorna2.deps.json
+D:\C#\Ciorna2\bin\Debug\net8.0\Ciorna2.runtimeconfig.json
+D:\C#\Ciorna2\bin\Debug\net8.0\Ciorna2.dll
+D:\C#\Ciorna2\bin\Debug\net8.0\Ciorna2.pdb
+D:\C#\Ciorna2\obj\Debug\net8.0\Ciorna2.dll
+D:\C#\Ciorna2\obj\Debug\net8.0\refint\Ciorna2.dll
+D:\C#\Ciorna2\obj\Debug\net8.0\Ciorna2.pdb
+D:\C#\Ciorna2\obj\Debug\net8.0\Ciorna2.genruntimeconfig.cache
+D:\C#\Ciorna2\obj\Debug\net8.0\ref\Ciorna2.dll
